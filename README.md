@@ -3,6 +3,7 @@
 ##### It is the part of Mathematic Algorithm and Data Structure Subject.
 ##### I learn to implement Data Structure such as Linked List and Queue in this project :)
 ##### THIS PROJECT IS FOR EDUCATIONAL PURPOSE ONLY
+##### SPECIAL THANKS TO ALL THE SONG USED IN PRESENTATION SUCH AS I MISS YOU - ICHIKA NITO
 
 ### ABOUT ME
 ##### Hi, I'm Shoichi(Arunwat) from Mae Fah Luang University, and I will be graduating soon :)
