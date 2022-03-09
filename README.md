@@ -3,6 +3,7 @@
 ##### It is the part of Mathematic Algorithm and Data Structure Subject.
 ##### I learn to implement Data Structure such as Linked List and Queue in this project :)
 ##### THIS PROJECT IS FOR EDUCATIONAL PURPOSE ONLY
+##### SEE HOW IT WORKS: https://youtu.be/kuzn5sAoh_0 (I BEG YOU PARDON FOR MY ENGLISH T_T)
 ##### SPECIAL THANKS TO ALL THE SONG USED IN PRESENTATION SUCH AS I MISS YOU - ICHIKA NITO
 
 ### ABOUT ME
